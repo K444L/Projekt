@@ -1,0 +1,4 @@
+/* Kein margin beim footer */
+.jumbotron-footer {
+  margin-bottom: 0px;
+}
